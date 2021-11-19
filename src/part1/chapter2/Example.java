@@ -1,4 +1,4 @@
-package part1.chapter1;
+package part1.chapter2;
 /*
     Простая программа на Java
  */
