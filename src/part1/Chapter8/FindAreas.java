@@ -9,7 +9,7 @@ abstract class Figure {
         dim1 = a;
         dim2 = b;
     }
-    abstract double area()
+    abstract double area();
 }
 
 class Rectangle extends Figure {
