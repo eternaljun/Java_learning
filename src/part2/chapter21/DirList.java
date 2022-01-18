@@ -1,6 +1,7 @@
 package part2.chapter21;
 
 import java.io.File;
+import java.util.Arrays;
 
 /**
  * @author Anatoly Tsybulya
@@ -26,6 +27,5 @@ public class DirList {
         } else {
             System.out.println(dirName + " не является каталогом");
         }
-
     }
 }
